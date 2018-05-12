@@ -1,0 +1,31 @@
+_repo: Wat-is-het-dat-eene-zondaar-zaligmaakt-gewichtige-vraag_39039
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39039-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Philpot, J. C. (Joseph Charles)
+    aliases:
+    - Philpot, Josef Charles
+    - Philpot, Joseph Charles
+    birthdate: 1802
+    deathdate: 1869
+    gutenberg_agent_id: '39806'
+    url: http://www.gutenberg.org/2009/agents/39806
+description: ''
+gutenberg_issued: '2012-03-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39039'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Strict Baptists -- Doctrines'
+- !lcc 'BX'
+title: "Wat is het dat eene zondaar zaligmaakt?\r\nzamenspraak tusschen een kappersknecht,\
+  \ Methodisten predikant en den heer Easterman met een antwoord op die gewichtige\
+  \ vraag"
+url: http://www.gutenberg.org/ebooks/39039
